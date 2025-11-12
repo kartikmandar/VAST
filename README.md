@@ -1,7 +1,7 @@
-# VA ST² - Variable Analysis System for Time Series & Transients
+# VAST² - Variable Analysis System for Time Series & Transients
 
 ## Overview
-VA ST² (Variable Analysis System for Time Series & Transients) is a comprehensive web-based platform for analyzing time series data in astrophysics. It provides an integrated environment for data ingestion, analysis, visualization, and modeling of astronomical time series data, with a particular focus on high-energy astrophysics.
+VAST² (Variable Analysis System for Time Series & Transients) is a comprehensive web-based platform for analyzing time series data in astrophysics. It provides an integrated environment for data ingestion, analysis, visualization, and modeling of astronomical time series data, with a particular focus on high-energy astrophysics.
 
 ## Features
 
